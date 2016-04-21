@@ -1,5 +1,8 @@
 # Ansible role `hosts`
 
+This is a fork of [bertvv/ansible-role-hosts](https://github.com/bertvv/ansible-role-hosts).
+The only difference is, that this role also works with Ansible 2.0.
+
 An Ansible role for managing the hosts file (`/etc/hosts`). Specifically, the responsibilities of this role are to:
 
 - Add the default localhost entry;
